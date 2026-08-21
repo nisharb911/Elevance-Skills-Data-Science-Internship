@@ -1,0 +1,61 @@
+text,actual_sentiment
+"I absolutely love your service!",positive
+"Thank you so much for helping me.",positive
+"The support agent was excellent.",positive
+"I am very happy with the resolution.",positive
+"Your service is amazing.",positive
+"I am extremely disappointed with your service.",negative
+"My order is three days late.",negative
+"This is terrible customer service.",negative
+"I want a refund. This experience was awful.",negative
+"I am frustrated with this problem.",negative
+"What are your customer support hours?",neutral
+"What payment methods do you accept?",neutral
+"How can I change my delivery address?",neutral
+"Can I update my account information?",neutral
+"What is your return policy?",neutral
+"Thanks, your support team solved my issue quickly.",positive
+"Really appreciate the quick response.",positive
+"Everything was handled perfectly.",positive
+"Your agent was very helpful.",positive
+"Great experience, thank you!",positive
+"I've been waiting for three days and nobody has helped me.",negative
+"This is extremely frustrating.",negative
+"Your company has completely wasted my time.",negative
+"I want to complain about this terrible service.",negative
+"I'm disappointed that my problem is still unresolved.",negative
+"I want to change my delivery address.",neutral
+"Where can I find my invoice?",neutral
+"When will my order be delivered?",neutral
+"How do I reset my password?",neutral
+"I need information about your warranty.",neutral
+"Your support team went above and beyond to help me.",positive
+"I am really pleased with how quickly this was resolved.",positive
+"Excellent experience from start to finish.",positive
+"Thank you for making the return process so easy.",positive
+"I appreciate the clear and helpful response.",positive
+"The issue was fixed faster than I expected.",positive
+"I am very satisfied with the support I received.",positive
+"Your customer service representative was kind and professional.",positive
+"Everything worked exactly as expected.",positive
+"I couldn't be happier with the service.",positive
+"Could you tell me how long standard delivery takes?",neutral
+"Do you offer refunds for returned products?",neutral
+"Where can I check my order status?",neutral
+"Is UPI available as a payment option?",neutral
+"How many days do I have to return an item?",neutral
+"What information do I need to provide for a refund?",neutral
+"Can I track my package online?",neutral
+"What are the available payment methods?",neutral
+"Do you provide customer support on weekends?",neutral
+"How can I contact customer support?",neutral
+"My order is late and this is becoming very frustrating.",negative
+"I have contacted support twice and my issue is still not resolved.",negative
+"I am extremely unhappy with the service I received.",negative
+"This refund process has been incredibly frustrating.",negative
+"My package is delayed and nobody has given me an update.",negative
+"I am tired of explaining the same problem again and again.",negative
+"The support response was completely unhelpful.",negative
+"I have been waiting for my refund for too long.",negative
+"This has been a very disappointing experience.",negative
+"I expected much better customer service than this.",negative

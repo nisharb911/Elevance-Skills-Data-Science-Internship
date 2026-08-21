@@ -1,0 +1,9 @@
+{
+    "sources": {
+        "https://www.example.com/": {
+            "hash": "e639c656ee40993c86c194936ccd14fb20b5c9d483d5b49d90e3246a8a2b87d3",
+            "last_updated": "2026-08-15T16:21:30.516335",
+            "chunk_count": 1
+        }
+    }
+}

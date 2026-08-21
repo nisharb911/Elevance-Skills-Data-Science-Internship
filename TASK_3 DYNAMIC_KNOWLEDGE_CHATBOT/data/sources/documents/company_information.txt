@@ -1,0 +1,25 @@
+Dynamic Knowledge Chatbot Project
+
+This project is designed to demonstrate a dynamically expanding knowledge base for a Retrieval-Augmented Generation chatbot.
+
+The system can collect information from configured sources such as PDF files, text documents, and web pages.
+
+New information is processed, divided into smaller chunks, converted into vector embeddings, and stored in a FAISS vector database.
+
+The system maintains metadata about processed sources so that unchanged information does not need to be processed repeatedly.
+
+When a new document or updated information is detected, the system processes the new content and adds it to the existing knowledge base.
+
+The chatbot uses the updated vector database to retrieve relevant information before generating an answer.
+
+The purpose of this project is to demonstrate automatic knowledge base expansion without requiring the complete chatbot application to be rebuilt.
+
+The dynamic update feature was successfully implemented. The system can detect modified documents and incorporate the updated information into the knowledge base.
+
+This additional information was added during the dynamic knowledge base testing phase. The chatbot should automatically detect this change and update its vector database without rebuilding the complete application.
+
+Our company introduced an automated knowledge
+synchronization process in August 2026.
+The synchronization system checks configured
+sources periodically and updates the knowledge
+base when new information is detected.

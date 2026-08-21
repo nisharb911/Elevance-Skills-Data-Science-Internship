@@ -1,0 +1,68 @@
+# ==========================================
+# Python cache / compiled files
+# ==========================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ==========================================
+# Environment / secrets
+# ==========================================
+
+.env
+.env.*
+*.env
+*.env.txt
+
+# ==========================================
+# Virtual environments
+# ==========================================
+
+.venv/
+venv/
+env/
+ENV/
+
+# ==========================================
+# IDE
+# ==========================================
+
+.vscode/
+.idea/
+
+# ==========================================
+# Testing / cache
+# ==========================================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================================
+# OS files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Large raw datasets
+# ==========================================
+
+TASK_4 ARXIV RESEARCH ASSISTANT/data/raw/
+
+# ==========================================
+# Generated vector databases
+# ==========================================
+
+TASK_3 DYNAMIC_KNOWLEDGE_CHATBOT/vectorstore/
+TASK_4 ARXIV RESEARCH ASSISTANT/data/vectorstore/
+TASK_6 MULTILINGUAL_AI_ASSISTANT/vectorstore/
+
+# ==========================================
+# Generated FAISS / pickle files
+# ==========================================
+
+*.faiss
+*.pkl

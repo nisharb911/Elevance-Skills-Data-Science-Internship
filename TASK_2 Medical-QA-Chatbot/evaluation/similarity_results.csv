@@ -1,0 +1,21 @@
+question,best_similarity,matched_question,source
+What are the symptoms of diabetes?,1.0000001192092896,What are the symptoms of Diabetes ?,NIHSeniorHealth
+How is diabetes treated?,0.8661755919456482,What are the treatments for Diabetes ?,NIHSeniorHealth
+What causes asthma?,1.0,What causes Asthma ?,NHLBI
+What are the symptoms of asthma?,1.0,What are the symptoms of Asthma ?,NHLBI
+How is asthma diagnosed?,0.8510422706604004,How to diagnose Asthma ?,NHLBI
+What are the symptoms of influenza?,0.7070409059524536,What are the symptoms of Q Fever ?,CDC
+What causes high blood pressure?,1.0,What causes High Blood Pressure ?,NHLBI
+How is hypertension treated?,0.7703604102134705,What are the treatments for High Blood Pressure ?,NHLBI
+What is insulin used for?,0.5560954213142395,What is (are) Insulin Resistance and Prediabetes ?,NIDDK
+What are the symptoms of migraine?,0.8970875144004822,What are the symptoms of Basilar migraine ?,GARD
+What causes migraine?,0.8595443367958069,What causes Basilar migraine ?,GARD
+How is pneumonia treated?,0.9003363847732544,What are the treatments for Pneumonia ?,NHLBI
+What are the symptoms of pneumonia?,1.0,What are the symptoms of Pneumonia ?,NHLBI
+What are the symptoms of anemia?,1.0000001192092896,What are the symptoms of Anemia ?,NHLBI
+How is anemia diagnosed?,0.8737032413482666,How to diagnose Anemia ?,NHLBI
+What causes obesity?,0.9186099767684937,What causes Overweight and Obesity ?,NHLBI
+What are the symptoms of depression?,1.0,What are the symptoms of Depression ?,NIHSeniorHealth
+What causes osteoporosis?,0.8209266066551208,What is (are) Osteoporosis ?,NIHSeniorHealth
+How is osteoporosis treated?,0.9050188660621643,What are the treatments for Osteoporosis ?,NIHSeniorHealth
+What are the symptoms of arthritis?,0.8818280696868896,What are the symptoms of Reactive arthritis ?,GARD

@@ -1,0 +1,21 @@
+question,relevant_rank,best_similarity
+What are the symptoms of diabetes?,1,1.0000001192092896
+How is diabetes treated?,1,0.8661755919456482
+What causes asthma?,1,1.0
+What are the symptoms of asthma?,1,1.0
+How is asthma diagnosed?,1,0.8510422706604004
+What are the symptoms of influenza?,1,0.7070409059524536
+What causes high blood pressure?,1,1.0
+How is hypertension treated?,1,0.7703604102134705
+What is insulin used for?,1,0.5560954213142395
+What are the symptoms of migraine?,1,0.8970875144004822
+What causes migraine?,1,0.8595443367958069
+How is pneumonia treated?,1,0.9003363847732544
+What are the symptoms of pneumonia?,1,1.0
+What are the symptoms of anemia?,1,1.0000001192092896
+How is anemia diagnosed?,1,0.8737032413482666
+What causes obesity?,1,0.9186099767684937
+What are the symptoms of depression?,1,1.0
+What causes osteoporosis?,1,0.8209266066551208
+How is osteoporosis treated?,1,0.9050188660621643
+What are the symptoms of arthritis?,1,0.8818280696868896

@@ -1,0 +1,25 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/conversations/*
+data/sample_images/*
+
+# Model/cache
+.cache/
+*.faiss
+
+# OS
+Thumbs.db
+.DS_Store

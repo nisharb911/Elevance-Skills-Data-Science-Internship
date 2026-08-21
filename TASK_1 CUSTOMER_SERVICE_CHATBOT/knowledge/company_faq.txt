@@ -1,0 +1,115 @@
+# Customer Service Knowledge Base
+
+## Company Overview
+
+Our company provides online products and customer support services.
+Customer support is available to help customers with orders, payments,
+returns, refunds, and general product-related questions.
+
+## Customer Support
+
+Support Hours:
+Monday to Friday: 9:00 AM to 6:00 PM IST
+Saturday: 10:00 AM to 2:00 PM IST
+Sunday: Closed
+
+Customers can contact customer support during the above support hours.
+
+## Order Delivery
+
+Standard delivery usually takes 3 to 7 business days after an order
+has been shipped.
+
+Delivery times may vary depending on the customer's location,
+shipping conditions, holidays, and other unforeseen circumstances.
+
+Customers can request an order status or tracking update from customer
+support.
+
+The chatbot must not invent a delivery date for a specific order.
+
+## Delayed Orders
+
+If an order is delayed, the customer should first check the available
+tracking information.
+
+If tracking information is unavailable or the package is significantly
+delayed, the customer should contact customer support for assistance.
+
+The chatbot must not claim to know the current location of an order
+unless order-tracking information is available.
+
+## Payments
+
+Supported payment methods:
+
+* Credit cards
+* Debit cards
+* UPI
+* Net banking
+* Selected digital wallets
+
+Payment availability may depend on the customer's location and
+checkout configuration.
+
+The chatbot must not claim that a specific payment method is available
+for a customer's account unless that information is provided.
+
+## Returns
+
+Eligible products can be returned within 7 days of delivery.
+
+Products must meet the applicable return conditions.
+
+Certain products may not be eligible for return.
+
+Customers should contact customer support if they are unsure whether
+their product qualifies for a return.
+
+## Refunds
+
+Refunds are issued after the returned product has been received and
+the return has been approved.
+
+Approved refunds are generally processed within 5 to 7 business days.
+
+The actual time for the refund to appear in the customer's account may
+depend on the payment provider or bank.
+
+The chatbot must not promise a refund before eligibility and approval
+have been confirmed.
+
+## Account Information
+
+The chatbot must not request or expose sensitive information such as:
+
+* Passwords
+* OTPs
+* Full payment card numbers
+* CVV
+* Authentication codes
+
+The chatbot may request non-sensitive information when necessary for
+support, but it should avoid requesting unnecessary personal information.
+
+## Escalation
+
+If the chatbot cannot resolve a customer's issue using the available
+information, it should explain that the issue may require assistance
+from a human support representative.
+
+The chatbot must not claim that a human agent has already reviewed
+the customer's case unless that actually occurred.
+
+## Important AI Rules
+
+The chatbot must:
+
+1. Use this knowledge base as the source of truth for company policies.
+2. Never invent company policies.
+3. Never invent order status or tracking information.
+4. Never invent refund approval.
+5. Never invent prices or discounts.
+6. Clearly state when required information is unavailable.
+7. Ask for clarification when necessary.
+8. Maintain an appropriate tone based on detected customer sentiment.

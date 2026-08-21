@@ -1,0 +1,11 @@
+question,best_similarity,matched_question,focus,source
+What is the capital of India?,0.28241899609565735,What is (are) Urachal cancer ?,Urachal cancer,GARD
+How do I repair my laptop?,0.26847565174102783,What are the treatments for Leydig cell hypoplasia ?,Leydig cell hypoplasia,GHR
+What is Python programming?,0.3219220042228699,What is (are) Pycnodysostosis ?,Pycnodysostosis,GARD
+What is the best smartphone?,0.20787467062473297,What are the treatments for primary myelofibrosis ?,primary myelofibrosis,GHR
+How can I create an Excel formula?,0.24394559860229492,Do you have information about A1C,A1C,MPlusHealthTopics
+What is the weather today?,0.3656902611255646,Do you have information about Winter Weather Emergencies,Winter Weather Emergencies,MPlusHealthTopics
+How do I create a website?,0.2223988026380539,What to do for What I need to know about Preparing for Pregnancy if I Have Diabetes ?,What I need to know about Preparing for Pregnancy if I Have Diabetes,NIDDK
+What is SQL?,0.31451624631881714,What is (are) Medicare and Continuing Care ?,Medicare and Continuing Care,NIHSeniorHealth
+How do I learn data science?,0.3246552348136902,What to do for What I need to know about Gas ?,What I need to know about Gas,NIDDK
+Who is the Prime Minister of India?,0.3280065655708313,What is the outlook for Sydenham Chorea ?,Sydenham Chorea,NINDS
